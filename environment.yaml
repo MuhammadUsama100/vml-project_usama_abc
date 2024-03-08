@@ -1,0 +1,6 @@
+build_dependencies:
+- pip
+- setuptools
+- wheel
+dependencies: []
+python: 3.8.15

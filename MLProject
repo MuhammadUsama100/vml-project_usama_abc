@@ -1,0 +1,7 @@
+entry_points:
+- main:
+    command: python tools/train.py
+    parameters:
+      config: path
+name: project_usama_abc
+python_env: environment.yaml
